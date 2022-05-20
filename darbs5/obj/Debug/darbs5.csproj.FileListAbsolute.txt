@@ -1,0 +1,10 @@
+C:\Users\Aigars\source\repos\darbs5\bin\Debug\darbs5.exe.config
+C:\Users\Aigars\source\repos\darbs5\bin\Debug\darbs5.exe
+C:\Users\Aigars\source\repos\darbs5\bin\Debug\darbs5.pdb
+C:\Users\Aigars\source\repos\darbs5\obj\Debug\darbs5.csprojAssemblyReference.cache
+C:\Users\Aigars\source\repos\darbs5\obj\Debug\darbs5.Form1.resources
+C:\Users\Aigars\source\repos\darbs5\obj\Debug\darbs5.Properties.Resources.resources
+C:\Users\Aigars\source\repos\darbs5\obj\Debug\darbs5.csproj.GenerateResource.cache
+C:\Users\Aigars\source\repos\darbs5\obj\Debug\darbs5.csproj.CoreCompileInputs.cache
+C:\Users\Aigars\source\repos\darbs5\obj\Debug\darbs5.exe
+C:\Users\Aigars\source\repos\darbs5\obj\Debug\darbs5.pdb
